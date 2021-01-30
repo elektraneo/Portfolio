@@ -947,7 +947,8 @@ header .social li i:hover {
 }
 
 .texture-swirl {
-  background-image: url("cartographer.png")
+  background-color: #13111f;
+  background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
 }
 
 .texture-blue h2 {
