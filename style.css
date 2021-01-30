@@ -1,9 +1,13 @@
 @font-face {
   font-family: 'fontello';
-  src: url("../font/fontello.eot?26793073");
-  src: url("../font/fontello.eot?26793073#iefix") format("embedded-opentype"), url("../font/fontello.woff2?26793073") format("woff2"), url("../font/fontello.woff?26793073") format("woff"), url("../font/fontello.ttf?26793073") format("truetype"), url("../font/fontello.svg?26793073#fontello") format("svg");
+  src: url('../font/fontello.eot?72881836');
+  src: url('../font/fontello.eot?72881836#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?72881836') format('woff2'),
+       url('../font/fontello.woff?72881836') format('woff'),
+       url('../font/fontello.ttf?72881836') format('truetype'),
+       url('../font/fontello.svg?72881836#fontello') format('svg');
   font-weight: normal;
-  font-style: normal
+  font-style: normal;
 }
 
 [class^="icon-"]:before,
