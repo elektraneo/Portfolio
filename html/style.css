@@ -648,6 +648,7 @@ h2 {
   font-weight: bold;
   font-size: 28px;
   margin-left: -25px;
+  color: #808080;
 }
 
 @media screen and (min-width: 320px) {
@@ -708,6 +709,7 @@ header {
 
 header h1 {
   margin-left: -25px;
+  color: #fff;
 }
 
 header .social {
@@ -820,8 +822,8 @@ header .social li i:hover {
 .post-title {
   color: #222;
   transition: color .3s ease;
-  margin: .1em 0;
-  margin-left: 600px;
+  margin: 0;
+  margin-left: 500px;
 }
 
 .post-title:hover {
