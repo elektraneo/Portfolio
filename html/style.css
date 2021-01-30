@@ -685,14 +685,21 @@ figcaption {
 }
 
 header {
-  padding: 120px 0;
-  color: #fff;
-  overflow: hidden
+  width: 30vw;
+  padding-top: 10px;
+  margin-bottom: -200px;
+  height: 100%;
+  padding-left: 8px;
+  text-align: left;
+  padding: 0;
+  position: absolute;
 }
 
-header h2 {
-  font-weight: normal;
-  margin-top: 5px
+header {
+  color: var(--text-color);
+  text-decoration: none;
+  margin-left: 4vw;
+  font-weight: bold;
 }
 
 header h1 {
@@ -797,7 +804,7 @@ header .social li i:hover {
   }
 
   .container div.highlighter-rouge {
-    right: 100px
+    right: 1000px
   }
 
   .container div.highlight {
@@ -868,6 +875,7 @@ header .social li i:hover {
 }
 
 .posts>li {
+  margin-left: 250px;
   margin-bottom: 30px;
   padding-bottom: 20px
 }
