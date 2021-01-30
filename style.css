@@ -935,7 +935,7 @@ header .social li i:hover {
 }
 
 .texture-black {
-  background-image: url("black.jpg")
+  background-image: url("black.png")
 }
 
 .texture-black h2 {
@@ -943,7 +943,7 @@ header .social li i:hover {
 }
 
 .texture-swirl {
-  background-image: url("cartographer.jpg")
+  background-image: url("cartographer.png")
 }
 
 .texture-blue h2 {
