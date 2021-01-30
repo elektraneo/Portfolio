@@ -935,15 +935,15 @@ header .social li i:hover {
 }
 
 .texture-black {
-  background-image: url("/assets/textures/black.jpg")
+  background-image: url("black.jpg")
 }
 
 .texture-black h2 {
   color: #999
 }
 
-.texture-blue {
-  background-image: url("/assets/textures/blue.jpg")
+.texture-swirl {
+  background-image: url("cartographer.jpg")
 }
 
 .texture-blue h2 {
