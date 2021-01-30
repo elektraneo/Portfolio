@@ -822,7 +822,7 @@ header .social li i:hover {
 .post-title {
   color: #222;
   transition: color .3s ease;
-  margin: 0;
+  width: 90%;
   margin-left: 500px;
 }
 
@@ -839,11 +839,13 @@ header .social li i:hover {
 }
 
 .post-date {
-  color: #999
+  color: #999;
+  margin-right: -1000px;
 }
 
 .post-date .icon-calendar {
-  margin-right: 6px
+  margin-right: 6px;
+  width: 100%;
 }
 
 .post-tags {
@@ -883,7 +885,7 @@ header .social li i:hover {
 }
 
 .posts>li {
-  margin-left: 300px;
+  margin-left: -50px;
   margin-bottom: 30px;
   padding-bottom: 20px
 }
