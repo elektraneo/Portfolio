@@ -647,7 +647,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 28px;
-  margin-left: -25px;
+  margin-left: -5px;
   color: #808080;
 }
 
@@ -708,7 +708,7 @@ header {
 }
 
 header h1 {
-  margin-left: -25px;
+  margin-left: -5px;
   color: #fff;
 }
 
@@ -717,7 +717,7 @@ header .social {
   list-style-type: none;
   padding: 0;
   margin-top: 0;
-  margin-left: -25px;
+  margin-left: -5px;
 }
 
 header .social li {
@@ -822,7 +822,7 @@ header .social li i:hover {
 .post-title {
   color: #222;
   transition: color .3s ease;
-  width: 90%;
+  width: 10%;
   margin-left: 500px;
 }
 
@@ -840,11 +840,12 @@ header .social li i:hover {
 
 .post-date {
   color: #999;
-  margin-right: -1000px;
+  margin-left: -190%;
+  margin-top: 75%;
 }
 
 .post-date .icon-calendar {
-  margin-right: 6px;
+  margin-right: 10%;
   width: 100%;
 }
 
@@ -895,7 +896,7 @@ header .social li i:hover {
 
 .posts,
 .post-container {
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 .post-meta {
@@ -909,7 +910,7 @@ header .social li i:hover {
 }
 
 .post-container img {
-  margin: 20px 0
+  margin: 10px 0
 }
 
 .navbar {
