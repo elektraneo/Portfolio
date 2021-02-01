@@ -688,7 +688,7 @@ figcaption {
 
 header {
   height: 100%;
-  width: 25vw;
+  width: 30%;
   padding-top: 20px;
   overflow-x: hidden;
   z-index: 1;
@@ -885,18 +885,17 @@ header .social li i:hover {
 }
 
 .posts>li {
-  margin-left: -50px;
-  margin-bottom: 30px;
-  padding-bottom: 20px
+  margin-left: -20%;
+  margin-bottom: 5%;
 }
 
 .posts>li:not(:last-child) {
-  border-bottom: 1px solid #eee
+  border-bottom: 1% solid #eee
 }
 
 .posts,
 .post-container {
-  margin-top: 40px
+  margin-top: 5%;
 }
 
 .post-meta {
