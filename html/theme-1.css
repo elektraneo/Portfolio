@@ -10727,7 +10727,7 @@ h6 {
 }
 
 .profile-section .bio {
-  font-size: 0.875rem
+  font-size: 1.25rem
 }
 
 .profile-section .bio a {
@@ -10757,7 +10757,7 @@ h6 {
 }
 
 .social-list a:hover {
-  color: #3dba52;
+  color: #ff7abd;
   background-color: rgba(255, 255, 255, 0.8)
 }
 
@@ -11136,7 +11136,7 @@ body {
 }
 
 .config-panel #color-options li.theme-4 a {
-  background-color: #5ECCA9
+  background-color: #909090
 }
 
 .config-panel #color-options li.theme-5 a {
