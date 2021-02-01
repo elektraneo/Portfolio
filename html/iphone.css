@@ -845,8 +845,8 @@ header .social li i:hover {
 }
 
 .post-date .icon-calendar {
-  margin-right: 10%;
-  width: 100%;
+  margin-right: 6px;
+  width: 10%;
 }
 
 .post-tags {
